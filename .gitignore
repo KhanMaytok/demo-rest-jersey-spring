@@ -1,15 +1,7 @@
-
-
-# Eclipse artifacts
-/.project
-
-/.classpath
-
-/.settings
-
-
-/bin
-/target
-
-/.git
-/rest-demo.2014-05-24.log
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
